@@ -1,7 +1,24 @@
 # Gold-ETF-Correlation-Analysis.ipynb
 This is a python analysis of correlating gold ETFs in the stock market. An HTML file is provided for interactive charts.
+The gold ETFs used were JNUG, JDST, NUGT, DUST, and GLD.
+
+## Exchange Trade Funds
+An Exchange Traded Fund (ETF) is a security that tracks a stock index. These securities are regularly traded like regular stock on the market. 
+
+  **NUGT:** Direxion Daily Gold Miners Index Bull 3X Shares. This is a 3x leveraged bet on the Arca Gold Miners Index.
+  
+  **JNUG:** Direxion Daily Junior Gold Miners Index Bull 3X Shares This is a 3x leveraged bet on the Market Vectors Junior Gold Miners Index. 
+  These are often more small cap firms.
+  
+  **NUGT:** Direxion Daily Gold Miners Index Bear 3X Shares. This is an inverse 3x leveraged bet on the Arca Gold Miners Index.
+  
+  **JNUG:** Direxion Daily Junior Gold Miners Index Bear 3X Shares. This is an inverse 3x leveraged bet on the Market Vectors Junior Gold Miners Index.
+  These are often more small cap firms.
 
 ## Notes
+This is not a trading strategy, it's just an analysis on the correlation between some stocks.
+
+I used the plotly library to create my charts.
 
 below are some photos of the charts created.
 
